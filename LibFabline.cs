@@ -8,7 +8,7 @@ using System.Collections.Generic;
 
 namespace LibFabline
 {
-	class FablineEnvironment
+	public class FablineEnvironment
 	{
 		/// <summary>
 		/// Prepares the Fabline environment from the given commandline
